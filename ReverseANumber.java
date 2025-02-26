@@ -2,6 +2,7 @@ package importantJavaPrograms;
 
 public class ReverseANumber {
 
+	//Initializaation
 	
 	int number=12345;
 	int reverseNumber=0;
